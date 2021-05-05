@@ -21,6 +21,9 @@
 -   [Data Science for Ecologists and Environmental
     Scientists](https://ourcodingclub.github.io/course)
 
+-   [Data Carpentry Ecology
+    Curriculum](https://datacarpentry.org/lessons/#ecology-workshop)
+
 ### Cursos acadêmicos no Brasil
 
 -   Não encontrei
