@@ -1,0 +1,47 @@
+---
+output: github_document
+bibliography: referencias.bib
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# Ciência de Dados Ambientais
+
+## Leituras
+
+- [ ] @blairDataScienceNatural2019 - https://doi.org/10.3389/fenvs.2019.00121
+
+- [ ] @singhCareerEnvironmentalInformatics2019 - https://doi.org/10.1002/fee.2038
+
+
+## Periódicos
+
+- [Environmental Data Science - ISSN 2634-4602](https://www.cambridge.org/core/journals/environmental-data-science)
+
+
+## Cursos
+
+### Cursos livres
+
+- [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course)
+
+### Cursos acadêmicos no Brasil
+
+- Não encontrei
+
+### Cursos acadêmicos internacionais
+
+- [University of California, Santa Barbara - Bren School of Environmental Science & Management - Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science)
+
+- [Disciplinas na Yale School of Environment](https://environment.yale.edu/data-science/courses/)
+
+- [Imperial College London - Msc Environmental Data Science and Machine Learning](https://www.imperial.ac.uk/study/pg/earth-science/environmental-data-science-machine-learning/)
+
+## Referências
