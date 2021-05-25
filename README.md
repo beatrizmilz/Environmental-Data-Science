@@ -3,11 +3,22 @@
 
 # Ciência de Dados Ambientais
 
+## Eventos
+
+-   [ ] [Environmental Data Science Summit - February 8-9, 2022 \| Santa
+    Barbara, California](https://eds-summit.github.io/)
+
 ## Leituras
 
 -   [ ] Blair et al. (2019) - <https://doi.org/10.3389/fenvs.2019.00121>
 
 -   [ ] Singh (2019) - <https://doi.org/10.1002/fee.2038>
+
+### Leituras sobre Ciência de Dados
+
+-   [ ] [50 years of Data
+    Science](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734) -
+    David Donoho
 
 ## Periódicos
 
