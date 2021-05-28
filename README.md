@@ -35,9 +35,11 @@
 -   [Data Carpentry Ecology
     Curriculum](https://datacarpentry.org/lessons/#ecology-workshop)
 
-### Cursos acadêmicos no Brasil
+### Disciplinas de pós-graduação no Brasil
 
--   Não encontrei
+-   [PRPG CIAMB - UFG](https://ciamb.prpg.ufg.br/) - [Análise de Dados
+    Ambientais](https://files.cercomp.ufg.br/weby/up/104/o/An%C3%A1lise_de_Dados_Ambientais.pdf) -
+    [Material da disciplina](https://lhmet.github.io/adar-ebook/)
 
 ### Cursos acadêmicos internacionais
 
