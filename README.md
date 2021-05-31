@@ -7,6 +7,10 @@
 
 -   [ ] [Environmental Data Science Summit - February 8-9, 2022 \| Santa
     Barbara, California](https://eds-summit.github.io/)
+    
+## Grupos de pesquisa
+
+- [ ] [EcoDataScience](https://eco-data-science.github.io/) - [GitHub](https://github.com/eco-data-science), [Slack](https://join.slack.com/t/ecodatascience/shared_invite/enQtNTE1MjAxMTU2NjQwLTZmYjQ5OGIyNjM0YTM4ZDhiMTA2Njc1Mjg2YjFlYWEwZDhlNjJmMTE3MzI2ZmM4ZTJhYTczNmZhYjk3YTI5NjU)
 
 ## Leituras
 
