@@ -5,22 +5,22 @@
 
 ## Eventos
 
--   [ ] [Environmental Data Science Summit - February 8-9, 2022 \| Santa
+-   [Environmental Data Science Summit - February 8-9, 2022 \| Santa
     Barbara, California](https://eds-summit.github.io/)
     
 ## Grupos de pesquisa
 
-- [ ] [EcoDataScience](https://eco-data-science.github.io/) - [GitHub](https://github.com/eco-data-science), [Slack](https://join.slack.com/t/ecodatascience/shared_invite/enQtNTE1MjAxMTU2NjQwLTZmYjQ5OGIyNjM0YTM4ZDhiMTA2Njc1Mjg2YjFlYWEwZDhlNjJmMTE3MzI2ZmM4ZTJhYTczNmZhYjk3YTI5NjU)
+- [EcoDataScience](https://eco-data-science.github.io/) - [GitHub](https://github.com/eco-data-science), [Slack](https://join.slack.com/t/ecodatascience/shared_invite/enQtNTE1MjAxMTU2NjQwLTZmYjQ5OGIyNjM0YTM4ZDhiMTA2Njc1Mjg2YjFlYWEwZDhlNjJmMTE3MzI2ZmM4ZTJhYTczNmZhYjk3YTI5NjU)
 
 ## Leituras
 
--   [ ] Blair et al. (2019) - <https://doi.org/10.3389/fenvs.2019.00121>
+-   Blair et al. (2019) - <https://doi.org/10.3389/fenvs.2019.00121>
 
--   [ ] Singh (2019) - <https://doi.org/10.1002/fee.2038>
+-   Singh (2019) - <https://doi.org/10.1002/fee.2038>
 
 ### Leituras sobre Ciência de Dados
 
--   [ ] [50 years of Data
+-   [50 years of Data
     Science](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734) -
     David Donoho
 
@@ -58,7 +58,7 @@
     Machine
     Learning](https://www.imperial.ac.uk/study/pg/earth-science/environmental-data-science-machine-learning/)
 
-### Disciplinas no MESC - Bren School
+### Disciplinas no  Master of Environmental Data Science MESC - Bren School
 - [Referência](https://my.sa.ucsb.edu/catalog/Current/CollegesDepartments/bren/Index.aspx?DeptTab=Graduate)
 
 - EDS 211 Team Science, Collaborative Analysis and Project Management
@@ -66,8 +66,11 @@
 - EDS 212 Essential Math for Environmental Data Science 
   - [Materiais](https://allisonhorst.github.io/EDS_212_essential-math/) 
 - EDS 213 Metadata Standards, Data Modeling and Data Semantics 
+  - [Materiais](https://brunj7.github.io/EDS-213-metadata/) 
 - EDS 214 Analytical Workflows and Scientific Reproducibility 
+  - [Materiais](https://brunj7.github.io/EDS-214-analytical-workflows/) 
 - EDS 215 Introduction to Data Storage and Management 
+  - [Materiais](https://jamesfrew.github.io/EDS_215_data_management/) 
 - EDS 216 Meta-analysis and Systematic Reviews 
 - EDS 220 Remote Sensing and Environmental Data 
 - EDS 221 Scientific Programming Essentials 
