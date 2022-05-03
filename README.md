@@ -59,7 +59,12 @@
     Learning](https://www.imperial.ac.uk/study/pg/earth-science/environmental-data-science-machine-learning/)
 
 ### Disciplinas no  Master of Environmental Data Science MESC - Bren School
+
 - [Referência](https://my.sa.ucsb.edu/catalog/Current/CollegesDepartments/bren/Index.aspx?DeptTab=Graduate)
+
+- [Página do curso](https://ucsb-meds.github.io/)
+
+- [Todas as disciplinas](https://ucsb-meds.github.io/courses.html)
 
 - EDS 211 Team Science, Collaborative Analysis and Project Management
   - [Materiais](https://bbest.github.io/eds211-team/)   
@@ -72,16 +77,27 @@
 - EDS 215 Introduction to Data Storage and Management 
   - [Materiais](https://jamesfrew.github.io/EDS_215_data_management/) 
 - EDS 216 Meta-analysis and Systematic Reviews 
+  - [Materiais](https://ucsbhydro.github.io/EDS_216_meta-analysis/) 
 - EDS 220 Remote Sensing and Environmental Data 
+  - [Materiais](https://samanthastevenson.github.io/EDS220_site/) 
 - EDS 221 Scientific Programming Essentials 
+  - [Materiais](https://allisonhorst.github.io/EDS_221_programming-essentials/) 
 - EDS 222 Statistics for Environmental Data Science 
+  - [Materiais](https://tcarleton.github.io/EDS-222-stats/) 
 - EDS 223 Spatial Analysis for Environmental Data Science 
+  - [Materiais](https://jamesfrew.github.io/EDS_223_spatial_analysis/) 
 - EDS 230 Modeling Environmental Systems 
+  - [Materiais](https://naomitague.github.io/ESM232_course/) 
 - EDS 231 Text and Sentiment Analysis for Environmental Problems 
+  - [Materiais](https://maro406.github.io/EDS_231-text-sentiment/) 
 - EDS 232 Machine Learning in Environmental Science 
+  - [Materiais](https://bbest.github.io/eds232-ml/) 
 - EDS 240 Data Visualization and Communication 
+  - [Materiais](https://bren.ucsb.edu/courses/eds-240) 
 - EDS 241 Environmental Policy Evaluation 
+  - [Materiais](https://bren.ucsb.edu/courses/eds-241) 
 - EDS 242 Ethics and Bias in Environmental Data Science
+  - [Materiais](https://bren.ucsb.edu/courses/eds-242) 
 
 
 
