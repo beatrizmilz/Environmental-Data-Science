@@ -58,6 +58,30 @@
     Machine
     Learning](https://www.imperial.ac.uk/study/pg/earth-science/environmental-data-science-machine-learning/)
 
+### Disciplinas no MESC - Bren School
+- [Referência](https://my.sa.ucsb.edu/catalog/Current/CollegesDepartments/bren/Index.aspx?DeptTab=Graduate)
+
+- EDS 211 Team Science, Collaborative Analysis and Project Management
+  - [Materiais](https://bbest.github.io/eds211-team/)   
+- EDS 212 Essential Math for Environmental Data Science 
+  - [Materiais](https://allisonhorst.github.io/EDS_212_essential-math/) 
+- EDS 213 Metadata Standards, Data Modeling and Data Semantics 
+- EDS 214 Analytical Workflows and Scientific Reproducibility 
+- EDS 215 Introduction to Data Storage and Management 
+- EDS 216 Meta-analysis and Systematic Reviews 
+- EDS 220 Remote Sensing and Environmental Data 
+- EDS 221 Scientific Programming Essentials 
+- EDS 222 Statistics for Environmental Data Science 
+- EDS 223 Spatial Analysis for Environmental Data Science 
+- EDS 230 Modeling Environmental Systems 
+- EDS 231 Text and Sentiment Analysis for Environmental Problems 
+- EDS 232 Machine Learning in Environmental Science 
+- EDS 240 Data Visualization and Communication 
+- EDS 241 Environmental Policy Evaluation 
+- EDS 242 Ethics and Bias in Environmental Data Science
+
+
+
 ## Referências
 
 <div id="refs" class="references csl-bib-body hanging-indent">
