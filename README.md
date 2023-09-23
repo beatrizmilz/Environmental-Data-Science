@@ -1,7 +1,27 @@
+Environmental Data Science
+================
+
+- [Events](#events)
+- [Groups](#groups)
+- [Opportunities](#opportunities)
+- [Books](#books)
+- [Articles](#articles)
+  - [About Environmental Data
+    Science](#about-environmental-data-science)
+  - [About Data Science](#about-data-science)
+- [Journals](#journals)
+- [R Packages](#r-packages)
+- [Courses](#courses)
+  - [Free courses](#free-courses)
+  - [Disciplinas de pós-graduação no
+    Brasil](#disciplinas-de-pós-graduação-no-brasil)
+  - [Academic courses (outside
+    Brazil)](#academic-courses-outside-brazil)
+  - [Content from courses at the Master of Environmental Data Science
+    (MEDS) - Bren
+    School](#content-from-courses-at-the-master-of-environmental-data-science-meds---bren-school)
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-
-# Environmental Data Science
 
 ## Events
 
@@ -45,18 +65,25 @@
 
 ### About Environmental Data Science
 
-- Blair et al. (2019) - <https://doi.org/10.3389/fenvs.2019.00121> -
-  Data Science of the Natural Environment: A Research Roadmap
+- [Data Science of the Natural Environment: A Research
+  Roadmap](https://doi.org/10.3389/fenvs.2019.00121)
 
-- Singh (2019) - <https://doi.org/10.1002/fee.2038> - A career in
-  environmental informatics and environmental data science
+- [A career in environmental informatics and environmental data
+  science](https://doi.org/10.1002/fee.2038)
 
-- <https://doi.org/10.1021/acs.est.1c01026> - Data Analytics for
-  Environmental Science and Engineering Research
+- [Data Analytics for Environmental Science and Engineering
+  Research](https://doi.org/10.1021/acs.est.1c01026)
 
 - [Machine Learning and Data Analytics for Environmental Science: A
   Review, Prospects and
   Challenges](https://iopscience.iop.org/article/10.1088/1757-899X/955/1/012107/meta)
+
+- [Evolution of machine learning in environmental science — A
+  perspective](https://doi.org/10.1017/eds.2022.2)
+
+- [Why we need to focus on developing ethical, responsible, and
+  trustworthy artificial intelligence approaches for environmental
+  science](https://doi.org/10.1017/eds.2022.5)
 
 ### About Data Science
 
@@ -157,26 +184,3 @@
 
 - [EDS 242 Ethics and Bias in Environmental Data
   Science](https://bren.ucsb.edu/courses/eds-242)
-
-## References
-
-<div id="refs" class="references csl-bib-body hanging-indent">
-
-<div id="ref-blairDataScienceNatural2019" class="csl-entry">
-
-Blair, Gordon S., Peter Henrys, Amber Leeson, John Watkins, Emma Eastoe,
-Susan Jarvis, and Paul J. Young. 2019. “Data Science of the Natural
-Environment: A Research Roadmap.” *Frontiers in Environmental Science*
-7: 121. <https://doi.org/10.3389/fenvs.2019.00121>.
-
-</div>
-
-<div id="ref-singhCareerEnvironmentalInformatics2019" class="csl-entry">
-
-Singh, Sushant K. 2019. “A Career in Environmental Informatics and
-Environmental Data Science.” *Frontiers in Ecology and the Environment*
-17 (4): 240–41. https://doi.org/<https://doi.org/10.1002/fee.2038>.
-
-</div>
-
-</div>

@@ -1,6 +1,8 @@
 ---
-output: github_document
-bibliography: referencias.bib
+title: "Environmental Data Science"
+output: 
+  github_document:
+    toc: true
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
@@ -12,7 +14,6 @@ knitr::opts_chunk$set(
 )
 ```
 
-# Environmental Data Science
 
 ## Events
 
@@ -45,15 +46,18 @@ knitr::opts_chunk$set(
 
 ### About Environmental Data Science
 
-- @blairDataScienceNatural2019 - https://doi.org/10.3389/fenvs.2019.00121 - Data Science of the Natural Environment: A Research Roadmap
+- [Data Science of the Natural Environment: A Research Roadmap](https://doi.org/10.3389/fenvs.2019.00121)
 
-- @singhCareerEnvironmentalInformatics2019 - https://doi.org/10.1002/fee.2038 - A career in environmental informatics and environmental data science
+- [A career in environmental informatics and environmental data science](https://doi.org/10.1002/fee.2038)
 
 
-- <https://doi.org/10.1021/acs.est.1c01026>  - Data Analytics for Environmental Science and Engineering Research
+- [Data Analytics for Environmental Science and Engineering Research](https://doi.org/10.1021/acs.est.1c01026)
 
 - [Machine Learning and Data Analytics for Environmental Science: A Review, Prospects and Challenges](https://iopscience.iop.org/article/10.1088/1757-899X/955/1/012107/meta)
 
+- [Evolution of machine learning in environmental science — A perspective](https://doi.org/10.1017/eds.2022.2)
+
+- [Why we need to focus on developing ethical, responsible, and trustworthy artificial intelligence approaches for environmental science](https://doi.org/10.1017/eds.2022.5)
 
 ### About Data Science
 
@@ -115,6 +119,3 @@ knitr::opts_chunk$set(
 - [EDS 240 Data Visualization and Communication](https://bren.ucsb.edu/courses/eds-240) 
 - [EDS 241 Environmental Policy Evaluation](https://bren.ucsb.edu/courses/eds-241) 
 - [EDS 242 Ethics and Bias in Environmental Data Science](https://bren.ucsb.edu/courses/eds-242) 
-
-
-## References
