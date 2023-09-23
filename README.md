@@ -21,6 +21,11 @@
   [GitHub](https://github.com/eco-data-science),
   [Slack](https://join.slack.com/t/ecodatascience/shared_invite/enQtNTE1MjAxMTU2NjQwLTZmYjQ5OGIyNjM0YTM4ZDhiMTA2Njc1Mjg2YjFlYWEwZDhlNjJmMTE3MzI2ZmM4ZTJhYTczNmZhYjk3YTI5NjU)
 
+## Opportunities
+
+- [SEEKCommons
+  Fellowship](https://seekcommons.org/fellowship-application.html)
+
 ## Books
 
 - [Environmental Data Analysis - An Introduction with Examples in
