@@ -29,12 +29,17 @@
 ## Books
 
 - [Environmental Data Analysis - An Introduction with Examples in
-  R](https://link.springer.com/book/10.1007/978-3-030-55020-2), por
-  Carsten Dormann (livro pago)
+  R](https://link.springer.com/book/10.1007/978-3-030-55020-2), by
+  Carsten Dormann
 
 - [Introduction to Environmental Data
-  Science](https://bookdown.org/igisc/EnvDataSci/), por Jerry Davis
-  (SFSU Institute for Geographic Information Science)
+  Science](https://bookdown.org/igisc/EnvDataSci/), by Jerry Davis (SFSU
+  Institute for Geographic Information Science) -
+  <https://doi.org/10.1201/9781003317821>
+
+- [Environmental Data Analysis - Methods and
+  Applications](https://www.degruyter.com/document/doi/10.1515/9783111012681/html?lang=en),
+  by Zhihua Zhang.
 
 ## Articles
 
@@ -46,6 +51,13 @@
 - Singh (2019) - <https://doi.org/10.1002/fee.2038> - A career in
   environmental informatics and environmental data science
 
+- <https://doi.org/10.1021/acs.est.1c01026> - Data Analytics for
+  Environmental Science and Engineering Research
+
+- [Machine Learning and Data Analytics for Environmental Science: A
+  Review, Prospects and
+  Challenges](https://iopscience.iop.org/article/10.1088/1757-899X/955/1/012107/meta)
+
 ### About Data Science
 
 - [50 years of Data
@@ -56,6 +68,11 @@
 
 - [Environmental Data Science - ISSN
   2634-4602](https://www.cambridge.org/core/journals/environmental-data-science)
+
+## R Packages
+
+- [CRAN Task View: Analysis of Ecological and Environmental
+  Data](https://cran.r-project.org/web/views/Environmetrics.html)
 
 ## Courses
 
