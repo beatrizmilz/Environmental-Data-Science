@@ -61,6 +61,11 @@ Environmental Data Science
   Applications](https://www.degruyter.com/document/doi/10.1515/9783111012681/html?lang=en),
   by Zhihua Zhang.
 
+- [Deep Learning for the Earth Sciences: A Comprehensive Approach to
+  Remote Sensing, Climate Science, and
+  Geosciences](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119646181),
+  by Gustau Camps-Valls, Devis Tuia, Xiao Xiang Zhu, Markus Reichstein.
+
 ## Articles
 
 ### About Environmental Data Science
