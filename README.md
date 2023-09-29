@@ -128,6 +128,8 @@ Environmental Data Science
   Environmental Science & Management - Master of Environmental Data
   Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science)
 
+  - [Know more about the program](https://bren.ucsb.edu/attend-webinar)
+
 - [Courses at Yale School of
   Environment](https://environment.yale.edu/data-science/courses/)
 
