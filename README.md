@@ -70,31 +70,27 @@ Environmental Data Science
 
 ### About Environmental Data Science
 
-- [Data Science of the Natural Environment: A Research
-  Roadmap](https://doi.org/10.3389/fenvs.2019.00121)
+- [Data Science of the Natural Environment: A Research Roadmap](https://doi.org/10.3389/fenvs.2019.00121)
 
-- [A career in environmental informatics and environmental data
-  science](https://doi.org/10.1002/fee.2038)
+- [A career in environmental informatics and environmental data science](https://doi.org/10.1002/fee.2038)
 
-- [Data Analytics for Environmental Science and Engineering
-  Research](https://doi.org/10.1021/acs.est.1c01026)
+- [Data Analytics for Environmental Science and Engineering Research](https://doi.org/10.1021/acs.est.1c01026)
 
-- [Machine Learning and Data Analytics for Environmental Science: A
-  Review, Prospects and
-  Challenges](https://iopscience.iop.org/article/10.1088/1757-899X/955/1/012107/meta)
+- [Machine Learning and Data Analytics for Environmental Science: A Review, Prospects and Challenges](https://iopscience.iop.org/article/10.1088/1757-899X/955/1/012107/meta)
 
-- [Evolution of machine learning in environmental science — A
-  perspective](https://doi.org/10.1017/eds.2022.2)
+- [Evolution of machine learning in environmental science — A perspective](https://doi.org/10.1017/eds.2022.2)
 
-- [Why we need to focus on developing ethical, responsible, and
-  trustworthy artificial intelligence approaches for environmental
-  science](https://doi.org/10.1017/eds.2022.5)
+- [Why we need to focus on developing ethical, responsible, and trustworthy artificial intelligence approaches for environmental science](https://doi.org/10.1017/eds.2022.5)
 
 ### About Data Science
 
 - [50 years of Data
   Science](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734) -
   David Donoho
+
+ ### Other
+
+- [Publications from AI2ES](https://www.ai2es.org/publications/)
 
 ## Journals
 
@@ -105,6 +101,11 @@ Environmental Data Science
 
 - [CRAN Task View: Analysis of Ecological and Environmental
   Data](https://cran.r-project.org/web/views/Environmetrics.html)
+
+
+## Organizations
+
+- [AI2ES - NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography](https://www.ai2es.org/)
 
 ## Courses
 
