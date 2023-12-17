@@ -1,39 +1,71 @@
 Environmental Data Science
 ================
 
-- [Events](#events)
-- [Groups](#groups)
-- [Opportunities](#opportunities)
-- [Books](#books)
-- [Articles](#articles)
-  - [About Environmental Data
-    Science](#about-environmental-data-science)
-  - [About Data Science](#about-data-science)
-- [Journals](#journals)
-- [R Packages](#r-packages)
-- [Courses](#courses)
-  - [Free courses](#free-courses)
-  - [Disciplinas de pós-graduação no
-    Brasil](#disciplinas-de-pós-graduação-no-brasil)
-  - [Academic courses (outside
-    Brazil)](#academic-courses-outside-brazil)
-  - [Content from courses at the Master of Environmental Data Science
-    (MEDS) - Bren
-    School](#content-from-courses-at-the-master-of-environmental-data-science-meds---bren-school)
+- [About](#about)
+- [Content](#content)
+  - [Events](#events)
+    - [Future events](#future-events)
+    - [Past events](#past-events)
+  - [Groups](#groups)
+  - [Opportunities](#opportunities)
+  - [Books](#books)
+  - [Articles](#articles)
+    - [About Data Science](#about-data-science)
+    - [About Environmental Data
+      Science](#about-environmental-data-science)
+  - [Journals](#journals)
+  - [R Packages](#r-packages)
+  - [Courses](#courses)
+    - [Free courses](#free-courses)
+    - [Disciplinas de pós-graduação no
+      Brasil](#disciplinas-de-pós-graduação-no-brasil)
+    - [Academic courses](#academic-courses)
+    - [Content from courses at the Master of Environmental Data Science
+      (MEDS) - Bren
+      School](#content-from-courses-at-the-master-of-environmental-data-science-meds---bren-school)
+  - [Other](#other)
+- [Contributing](#contributing)
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+# About
+
+Welcome!
+
+This is a repository to gather information about Environmental Data
+Science, such as: events, groups, books, papers, journals, courses, etc.
+
+The idea is to have a place to find information about Environmental Data
+Science, and to share it with others.
+
+Feel free to contribute by suggesting contents (e.g., [open a
+issue](https://github.com/beatrizmilz/Environmental-Data-Science/issues))
+or by making a pull request to [add new content in this
+file](https://github.com/beatrizmilz/Environmental-Data-Science/blob/main/README.Rmd).
+
+This repository was created by [Beatriz Milz](https://beamilz.com/) in
+March, 2021.
+
+# Content
+
 ## Events
+
+### Future events
 
 - [Environmental Data Science Summit - February 6 - 8, 2024 - Santa
   Barbara,
   California](https://www.nceas.ucsb.edu/environmental-data-science-summit)
+
+### Past events
 
 - [Environmental Data Science Summit - February 7 & 8, 2023 - Santa
   Barbara, California](https://eds-summit.github.io/)
 
 - [Environmental Data Science Summit - February 8-9, 2022 \| Santa
   Barbara, California](https://eds-summit.github.io/)
+
+- [TAI4ES 2022 Summer
+  School](https://www2.cisl.ucar.edu/events/tai4es-2022-summer-school)
 
 ## Groups
 
@@ -68,44 +100,49 @@ Environmental Data Science
 
 ## Articles
 
-### About Environmental Data Science
-
-- [Data Science of the Natural Environment: A Research Roadmap](https://doi.org/10.3389/fenvs.2019.00121)
-
-- [A career in environmental informatics and environmental data science](https://doi.org/10.1002/fee.2038)
-
-- [Data Analytics for Environmental Science and Engineering Research](https://doi.org/10.1021/acs.est.1c01026)
-
-- [Machine Learning and Data Analytics for Environmental Science: A Review, Prospects and Challenges](https://iopscience.iop.org/article/10.1088/1757-899X/955/1/012107/meta)
-
-- [Evolution of machine learning in environmental science — A perspective](https://doi.org/10.1017/eds.2022.2)
-
-- [Why we need to focus on developing ethical, responsible, and trustworthy artificial intelligence approaches for environmental science](https://doi.org/10.1017/eds.2022.5)
-
 ### About Data Science
 
 - [50 years of Data
   Science](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734) -
   David Donoho
 
- ### Other
+### About Environmental Data Science
 
-- [Publications from AI2ES](https://www.ai2es.org/publications/)
+- [Data Science of the Natural Environment: A Research
+  Roadmap](https://doi.org/10.3389/fenvs.2019.00121)
+
+- [A career in environmental informatics and environmental data
+  science](https://doi.org/10.1002/fee.2038)
+
+- [Data Analytics for Environmental Science and Engineering
+  Research](https://doi.org/10.1021/acs.est.1c01026)
+
+- [Machine Learning and Data Analytics for Environmental Science: A
+  Review, Prospects and
+  Challenges](https://iopscience.iop.org/article/10.1088/1757-899X/955/1/012107/meta)
+
+- [Evolution of machine learning in environmental science — A
+  perspective](https://doi.org/10.1017/eds.2022.2)
+
+- [Why we need to focus on developing ethical, responsible, and
+  trustworthy artificial intelligence approaches for environmental
+  science](https://doi.org/10.1017/eds.2022.5)
 
 ## Journals
 
 - [Environmental Data Science - ISSN
   2634-4602](https://www.cambridge.org/core/journals/environmental-data-science)
 
+- [Environmental Science and
+  Technology](https://pubs.acs.org/journal/esthag)
+
+- [Frontiers in Environmental
+  Science](https://www.frontiersin.org/journals/environmental-science)
+
 ## R Packages
 
 - [CRAN Task View: Analysis of Ecological and Environmental
   Data](https://cran.r-project.org/web/views/Environmetrics.html)
-
-
-## Organizations
-
-- [AI2ES - NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography](https://www.ai2es.org/)
 
 ## Courses
 
@@ -123,7 +160,7 @@ Environmental Data Science
   Ambientais](https://files.cercomp.ufg.br/weby/up/104/o/An%C3%A1lise_de_Dados_Ambientais.pdf) -
   [Material da disciplina](https://lhmet.github.io/adar-ebook/)
 
-### Academic courses (outside Brazil)
+### Academic courses
 
 - [University of California, Santa Barbara - Bren School of
   Environmental Science & Management - Master of Environmental Data
@@ -192,3 +229,16 @@ Environmental Data Science
 
 - [EDS 242 Ethics and Bias in Environmental Data
   Science](https://bren.ucsb.edu/courses/eds-242)
+
+## Other
+
+- [Publications from AI2ES](https://www.ai2es.org/publications/)
+
+# Contributing
+
+Contributions are welcome! Please, feel free to submit a pull request or
+open an issue to discuss a new resource.
+
+We follow this [code of
+conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
+for contributors.
