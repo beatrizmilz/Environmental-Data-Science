@@ -11,8 +11,8 @@ Environmental Data Science
   - [Books](#books)
   - [Articles](#articles)
     - [About Data Science](#about-data-science)
-    - [About Environmental Data
-      Science](#about-environmental-data-science)
+    - [About Environmental Data Science](#about-environmental-data-science)
+  - [Special Issues](#special-issues)
   - [Journals](#journals)
   - [R Packages](#r-packages)
   - [Courses](#courses)
@@ -32,19 +32,13 @@ Environmental Data Science
 
 Welcome!
 
-This is a repository to gather information about Environmental Data
-Science, such as: events, groups, books, papers, journals, courses, etc.
+This repository gathers information about Environmental Data Science, such as events, groups, books, papers, journals, courses, etc.
 
-The idea is to have a place to find information about Environmental Data
-Science, and to share it with others.
+The idea is to have a place to find information about environmental data science and share it with others.
 
-Feel free to contribute by suggesting contents (e.g., [open a
-issue](https://github.com/beatrizmilz/Environmental-Data-Science/issues))
-or by making a pull request to [add new content in this
-file](https://github.com/beatrizmilz/Environmental-Data-Science/blob/main/README.Rmd).
+Feel free to contribute by suggesting contents (e.g., [open an issue](https://github.com/beatrizmilz/Environmental-Data-Science/issues)) or by making a pull request to [add new content in this file](https://github.com/beatrizmilz/Environmental-Data-Science/blob/main/README.Rmd).
 
-This repository was created by [Beatriz Milz](https://beamilz.com/) in
-March, 2021.
+This repository was created by [Beatriz Milz](https://beamilz.com/) in March 2021.
 
 # Content
 
@@ -52,127 +46,93 @@ March, 2021.
 
 ### Future events
 
-- [Environmental Data Science Summit - February 6 - 8, 2024 - Santa
-  Barbara,
-  California](https://www.nceas.ucsb.edu/environmental-data-science-summit)
+- [Environmental Data Science Summit - February 6 - 8, 2024 - Santa Barbara, California](https://www.nceas.ucsb.edu/environmental-data-science-summit)
 
 ### Past events
 
-- [Environmental Data Science Summit - February 7 & 8, 2023 - Santa
-  Barbara, California](https://eds-summit.github.io/)
+- [Environmental Data Science Summit - February 7 & 8, 2023 - Santa Barbara, California](https://eds-summit.github.io/)
 
-- [Environmental Data Science Summit - February 8-9, 2022 \| Santa
-  Barbara, California](https://eds-summit.github.io/)
+- [Environmental Data Science Summit - February 8-9, 2022 \| Santa Barbara, California](https://eds-summit.github.io/)
 
-- [TAI4ES 2022 Summer
-  School](https://www2.cisl.ucar.edu/events/tai4es-2022-summer-school)
+- [TAI4ES 2022 Summer School](https://www2.cisl.ucar.edu/events/tai4es-2022-summer-school)
 
 ## Groups
 
-- [EcoDataScience](https://eco-data-science.github.io/) -
-  [GitHub](https://github.com/eco-data-science),
-  [Slack](https://join.slack.com/t/ecodatascience/shared_invite/enQtNTE1MjAxMTU2NjQwLTZmYjQ5OGIyNjM0YTM4ZDhiMTA2Njc1Mjg2YjFlYWEwZDhlNjJmMTE3MzI2ZmM4ZTJhYTczNmZhYjk3YTI5NjU)
+- [EcoDataScience](https://eco-data-science.github.io/) - [GitHub](https://github.com/eco-data-science), [Slack](https://join.slack.com/t/ecodatascience/shared_invite/enQtNTE1MjAxMTU2NjQwLTZmYjQ5OGIyNjM0YTM4ZDhiMTA2Njc1Mjg2YjFlYWEwZDhlNjJmMTE3MzI2ZmM4ZTJhYTczNmZhYjk3YTI5NjU)
 
 ## Opportunities
 
-- [SEEKCommons
-  Fellowship](https://seekcommons.org/fellowship-application.html)
+- [SEEKCommons Fellowship](https://seekcommons.org/fellowship-application.html)
 
 ## Books
 
-- [Environmental Data Analysis - An Introduction with Examples in
-  R](https://link.springer.com/book/10.1007/978-3-030-55020-2), by
-  Carsten Dormann
+- [Environmental Data Analysis - An Introduction with Examples in R](https://link.springer.com/book/10.1007/978-3-030-55020-2), by Carsten Dormann
 
-- [Introduction to Environmental Data
-  Science](https://bookdown.org/igisc/EnvDataSci/), by Jerry Davis (SFSU
-  Institute for Geographic Information Science) -
-  <https://doi.org/10.1201/9781003317821>
+- [Introduction to Environmental Data Science](https://bookdown.org/igisc/EnvDataSci/), by Jerry Davis (SFSU Institute for Geographic Information Science) - <https://doi.org/10.1201/9781003317821>
 
-- [Environmental Data Analysis - Methods and
-  Applications](https://www.degruyter.com/document/doi/10.1515/9783111012681/html?lang=en),
-  by Zhihua Zhang.
+- [Environmental Data Analysis - Methods and Applications](https://www.degruyter.com/document/doi/10.1515/9783111012681/html?lang=en), by Zhihua Zhang.
 
-- [Deep Learning for the Earth Sciences: A Comprehensive Approach to
-  Remote Sensing, Climate Science, and
-  Geosciences](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119646181),
-  by Gustau Camps-Valls, Devis Tuia, Xiao Xiang Zhu, Markus Reichstein.
+- [Deep Learning for the Earth Sciences: A Comprehensive Approach to Remote Sensing, Climate Science, and Geosciences](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119646181), by Gustau Camps-Valls, Devis Tuia, Xiao Xiang Zhu, Markus Reichstein.
 
 ## Articles
 
 ### About Data Science
 
-- [50 years of Data
-  Science](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734) -
-  David Donoho
+- [50 years of Data Science](https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734) - David Donoho
 
 ### About Environmental Data Science
 
-- [Data Science of the Natural Environment: A Research
-  Roadmap](https://doi.org/10.3389/fenvs.2019.00121)
+- [Data Science of the Natural Environment: A Research Roadmap](https://doi.org/10.3389/fenvs.2019.00121)
 
-- [A career in environmental informatics and environmental data
-  science](https://doi.org/10.1002/fee.2038)
+- [A career in environmental informatics and environmental data science](https://doi.org/10.1002/fee.2038)
 
-- [Data Analytics for Environmental Science and Engineering
-  Research](https://doi.org/10.1021/acs.est.1c01026)
+- [Data Analytics for Environmental Science and Engineering Research](https://doi.org/10.1021/acs.est.1c01026)
 
-- [Machine Learning and Data Analytics for Environmental Science: A
-  Review, Prospects and
-  Challenges](https://iopscience.iop.org/article/10.1088/1757-899X/955/1/012107/meta)
+- [Machine Learning and Data Analytics for Environmental Science: A Review, Prospects and Challenges](https://iopscience.iop.org/article/10.1088/1757-899X/955/1/012107/meta)
 
-- [Evolution of machine learning in environmental science — A
-  perspective](https://doi.org/10.1017/eds.2022.2)
+- [Evolution of machine learning in environmental science — A perspective](https://doi.org/10.1017/eds.2022.2)
 
-- [Why we need to focus on developing ethical, responsible, and
-  trustworthy artificial intelligence approaches for environmental
-  science](https://doi.org/10.1017/eds.2022.5)
+- [Why we need to focus on developing ethical, responsible, and trustworthy artificial intelligence approaches for environmental science](https://doi.org/10.1017/eds.2022.5)
+
+## Special issues
+
+- [Environmetrics - Special Issue: Environmental Data Science: Part 1 - February 2023](https://onlinelibrary.wiley.com/toc/1099095x/2023/34/1)
+
+- [Environmetrics - Special Issue: Environmental Data Science: Part 2 - March 2023](https://onlinelibrary.wiley.com/toc/1099095x/2023/34/2)
+
 
 ## Journals
 
-- [Environmental Data Science - ISSN
-  2634-4602](https://www.cambridge.org/core/journals/environmental-data-science)
+- [Environmental Data Science - ISSN 2634-4602](https://www.cambridge.org/core/journals/environmental-data-science)
 
-- [Environmental Science and
-  Technology](https://pubs.acs.org/journal/esthag)
+- [Environmental Science and Technology](https://pubs.acs.org/journal/esthag)
 
-- [Frontiers in Environmental
-  Science](https://www.frontiersin.org/journals/environmental-science)
+- [Frontiers in Environmental Science](https://www.frontiersin.org/journals/environmental-science)
+
+- [Environmetrics](https://onlinelibrary.wiley.com/toc/1099095x/current)
+
 
 ## R Packages
 
-- [CRAN Task View: Analysis of Ecological and Environmental
-  Data](https://cran.r-project.org/web/views/Environmetrics.html)
+- [CRAN Task View: Analysis of Ecological and Environmental Data](https://cran.r-project.org/web/views/Environmetrics.html)
 
 ## Courses
 
 ### Free courses
 
-- [Data Science for Ecologists and Environmental
-  Scientists](https://ourcodingclub.github.io/course)
+- [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course)
 
-- [Data Carpentry Ecology
-  Curriculum](https://datacarpentry.org/lessons/#ecology-workshop)
+- [Data Carpentry Ecology Curriculum](https://datacarpentry.org/lessons/#ecology-workshop)
 
 ### Disciplinas de pós-graduação no Brasil
 
-- [PRPG CIAMB - UFG](https://ciamb.prpg.ufg.br/) - [Análise de Dados
-  Ambientais](https://files.cercomp.ufg.br/weby/up/104/o/An%C3%A1lise_de_Dados_Ambientais.pdf) -
-  [Material da disciplina](https://lhmet.github.io/adar-ebook/)
+- [PRPG CIAMB - UFG](https://ciamb.prpg.ufg.br/) - [Análise de Dados Ambientais](https://files.cercomp.ufg.br/weby/up/104/o/An%C3%A1lise_de_Dados_Ambientais.pdf) - [Material da disciplina](https://lhmet.github.io/adar-ebook/)
 
 ### Academic courses
 
-- [University of California, Santa Barbara - Bren School of
-  Environmental Science & Management - Master of Environmental Data
-  Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science)
+- [University of California, Santa Barbara - Bren School of Environmental Science & Management - Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science)
 
-  - [Know more about the program](https://bren.ucsb.edu/attend-webinar)
-
-- [Courses at Yale School of
-  Environment](https://environment.yale.edu/data-science/courses/)
-
-- [Imperial College London - Msc Environmental Data Science and Machine
-  Learning](https://www.imperial.ac.uk/study/pg/earth-science/environmental-data-science-machine-learning/)
+- [Imperial College London - Msc Environmental Data Science and Machine Learning](https://www.imperial.ac.uk/study/pg/earth-science/environmental-data-science-machine-learning/)
 
 ### Content from courses at the Master of Environmental Data Science (MEDS) - Bren School
 
@@ -236,9 +196,6 @@ March, 2021.
 
 # Contributing
 
-Contributions are welcome! Please, feel free to submit a pull request or
-open an issue to discuss a new resource.
+Contributions are welcome! Please submit a pull request or open an issue to discuss a new resource.
 
-We follow this [code of
-conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
-for contributors.
+We follow this [code of conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) for contributors.
