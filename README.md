@@ -1,7 +1,4 @@
-Environmental Data Science
-
-# About
-
+# Environmental Data Science
 Welcome!
 
 This repository gathers information about Environmental Data Science, such as events, groups, books, papers, journals, courses, etc.
