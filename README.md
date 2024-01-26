@@ -1,32 +1,4 @@
 Environmental Data Science
-================
-
-- [About](#about)
-- [Content](#content)
-  - [Events](#events)
-    - [Future events](#future-events)
-    - [Past events](#past-events)
-  - [Groups](#groups)
-  - [Opportunities](#opportunities)
-  - [Books](#books)
-  - [Articles](#articles)
-    - [About Data Science](#about-data-science)
-    - [About Environmental Data Science](#about-environmental-data-science)
-  - [Special Issues](#special-issues)
-  - [Journals](#journals)
-  - [R Packages](#r-packages)
-  - [Courses](#courses)
-    - [Free courses](#free-courses)
-    - [Disciplinas de pós-graduação no
-      Brasil](#disciplinas-de-pós-graduação-no-brasil)
-    - [Academic courses](#academic-courses)
-    - [Content from courses at the Master of Environmental Data Science
-      (MEDS) - Bren
-      School](#content-from-courses-at-the-master-of-environmental-data-science-meds---bren-school)
-  - [Other](#other)
-- [Contributing](#contributing)
-
-<!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # About
 
