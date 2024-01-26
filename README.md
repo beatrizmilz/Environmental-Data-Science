@@ -116,6 +116,16 @@ This repository was created by [Beatriz Milz](https://beamilz.com/) in March 202
 
 - [CRAN Task View: Analysis of Ecological and Environmental Data](https://cran.r-project.org/web/views/Environmetrics.html)
 
+## Environmental Data Journalism
+
+- [New Data Tools and Tips for Investigating Climate Change](https://gijn.org/stories/new-data-tools-and-tips-for-investigating-climate-change/)
+
+- [Journalists Toolbox - Environment Resources](https://www.journaliststoolbox.org/2023/05/25/miscellaneous_environment_sites/)
+
+## Workshops
+
+- [Environmental Data Visualization Literacy Workshop With R](https://www.library.upenn.edu/rdds/work/r-data-visualization-workshop)
+
 ## Courses
 
 ### Free courses
