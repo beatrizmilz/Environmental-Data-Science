@@ -29,10 +29,6 @@ This repository was created by [Beatriz Milz](https://beamilz.com/) in March 202
 
 - [EcoDataScience](https://eco-data-science.github.io/) - [GitHub](https://github.com/eco-data-science), [Slack](https://join.slack.com/t/ecodatascience/shared_invite/enQtNTE1MjAxMTU2NjQwLTZmYjQ5OGIyNjM0YTM4ZDhiMTA2Njc1Mjg2YjFlYWEwZDhlNjJmMTE3MzI2ZmM4ZTJhYTczNmZhYjk3YTI5NjU)
 
-## Opportunities
-
-- [SEEKCommons Fellowship](https://seekcommons.org/fellowship-application.html)
-
 ## Books
 
 - [Environmental Data Analysis - An Introduction with Examples in R](https://link.springer.com/book/10.1007/978-3-030-55020-2), by Carsten Dormann
@@ -52,8 +48,6 @@ This repository was created by [Beatriz Milz](https://beamilz.com/) in March 202
 ### About Environmental Data Science
 
 - [Data Science of the Natural Environment: A Research Roadmap](https://doi.org/10.3389/fenvs.2019.00121)
-
-- [A career in environmental informatics and environmental data science](https://doi.org/10.1002/fee.2038)
 
 - [Data Analytics for Environmental Science and Engineering Research](https://doi.org/10.1021/acs.est.1c01026)
 
