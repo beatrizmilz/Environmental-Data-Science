@@ -57,6 +57,8 @@ This repository was created by [Beatriz Milz](https://beamilz.com/) in March 202
 
 - [Why we need to focus on developing ethical, responsible, and trustworthy artificial intelligence approaches for environmental science](https://doi.org/10.1017/eds.2022.5)
 
+- [Machine learning and deep learning—A review for ecologists](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14061)
+
 ## Special issues
 
 - [Environmetrics - Special Issue: Environmental Data Science: Part 1 - February 2023](https://onlinelibrary.wiley.com/toc/1099095x/2023/34/1)
