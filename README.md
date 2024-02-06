@@ -174,3 +174,5 @@ This repository was created by [Beatriz Milz](https://beamilz.com/) in March 202
 Contributions are welcome! Please submit a pull request or open an issue to discuss a new resource.
 
 We follow this [code of conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) for contributors.
+
+Contributors: Beatriz Milz, Maurício Vancine
