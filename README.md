@@ -11,6 +11,12 @@ This repository was created by [Beatriz Milz](https://beamilz.com/) in March 202
 
 # Content
 
+## Organizations
+
+- [Openscapes](https://openscapes.org/) 
+   - [Open educational resources for Openscapes Champions](https://openscapes.github.io/series/)
+   - [NASA Openscapes](https://nasa-openscapes.github.io/)
+
 ## Events
 
 ### Future events
