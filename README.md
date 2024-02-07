@@ -93,6 +93,10 @@ This repository was created by [Beatriz Milz](https://beamilz.com/) in March 202
 
 - [Journalists Toolbox - Environment Resources](https://www.journaliststoolbox.org/2023/05/25/miscellaneous_environment_sites/)
 
+## Data visualizations 
+
+- [water data visualizations - USGS](https://labs.waterdata.usgs.gov/visualizations/index.html)
+
 ## Workshops
 
 - [Environmental Data Visualization Literacy Workshop With R](https://www.library.upenn.edu/rdds/work/r-data-visualization-workshop)
