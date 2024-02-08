@@ -96,6 +96,7 @@ This repository was created by [Beatriz Milz](https://beamilz.com/) in March 202
 ## Data visualizations 
 
 - [water data visualizations - USGS](https://labs.waterdata.usgs.gov/visualizations/index.html)
+   - [USGS - Water Data For The Nation Blog](https://waterdata.usgs.gov/blog/)
 
 ## Workshops
 
