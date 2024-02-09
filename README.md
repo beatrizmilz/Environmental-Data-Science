@@ -21,9 +21,12 @@ This repository was created by [Beatriz Milz](https://beamilz.com/) in March 202
 
 ### Future events
 
-- [Environmental Data Science Summit - February 6 - 8, 2024 - Santa Barbara, California](https://www.nceas.ucsb.edu/environmental-data-science-summit)
+- [Environmental Data Science Summit - ??, 2025 - Santa Barbara, California](https://www.nceas.ucsb.edu/environmental-data-science-summit)
 
 ### Past events
+
+
+- [Environmental Data Science Summit - February 6 - 8, 2024 - Santa Barbara, California](https://www.nceas.ucsb.edu/environmental-data-science-summit)
 
 - [Environmental Data Science Summit - February 7 & 8, 2023 - Santa Barbara, California](https://eds-summit.github.io/)
 
@@ -64,6 +67,8 @@ This repository was created by [Beatriz Milz](https://beamilz.com/) in March 202
 - [Why we need to focus on developing ethical, responsible, and trustworthy artificial intelligence approaches for environmental science](https://doi.org/10.1017/eds.2022.5)
 
 - [Machine learning and deep learning—A review for ecologists](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14061)
+
+- [Welcoming More Participation in Open Data Science for the Oceans](https://doi.org/10.1146/annurev-marine-041723-094741)
 
 ## Special issues
 
@@ -179,6 +184,8 @@ This repository was created by [Beatriz Milz](https://beamilz.com/) in March 202
 ## Other
 
 - [Publications from AI2ES](https://www.ai2es.org/publications/)
+
+- [Better Science in Less time](http://ohi-science.org/betterscienceinlesstime/our_story.html)
 
 # Contributing
 
