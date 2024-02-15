@@ -209,4 +209,4 @@ Contributions are welcome! Please submit a pull request or open an issue to disc
 
 We follow this [code of conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) for contributors.
 
-Contributors: Beatriz Milz, Maurício Vancine
+Contributors: Beatriz Milz, Maurício Vancine, Juliano Van Melis
