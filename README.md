@@ -48,6 +48,16 @@ This repository was created by [Beatriz Milz](https://beamilz.com/) in March 202
 
 - [Deep Learning for the Earth Sciences: A Comprehensive Approach to Remote Sensing, Climate Science, and Geosciences](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119646181), by Gustau Camps-Valls, Devis Tuia, Xiao Xiang Zhu, Markus Reichstein.
 
+- [Análises Ecológicas no R](https://analises-ecologicas.com/), by FR Da Silva, T Gonçalves-Souza, GB Paterno, DB Provete, MH Vancine (in portuguese)
+
+ ## Blogs and Newsletters
+
+ - [Dynamic Ecology](https://dynamicecology.wordpress.com/)
+ 
+ - [Theoretical Ecology](https://theoreticalecology.wordpress.com/)
+
+ - [Methods in Ecology & Evolution - Blog](https://methodsblog.com/)
+
 ## Articles
 
 ### About Data Science
@@ -76,6 +86,8 @@ This repository was created by [Beatriz Milz](https://beamilz.com/) in March 202
 
 - [Environmetrics - Special Issue: Environmental Data Science: Part 2 - March 2023](https://onlinelibrary.wiley.com/toc/1099095x/2023/34/2)
 
+- [Methods in Ecology and Evolution - Special Feature: Realising the Promise of Large Data and Complex Models](https://besjournals.onlinelibrary.wiley.com/toc/2041210x/2023/14/1)
+
 
 ## Journals
 
@@ -86,6 +98,8 @@ This repository was created by [Beatriz Milz](https://beamilz.com/) in March 202
 - [Frontiers in Environmental Science](https://www.frontiersin.org/journals/environmental-science)
 
 - [Environmetrics](https://onlinelibrary.wiley.com/toc/1099095x/current)
+
+- [Methods in Ecology and Evolution](https://besjournals.onlinelibrary.wiley.com/journal/2041210X)
 
 
 ## R Packages
@@ -124,6 +138,8 @@ This repository was created by [Beatriz Milz](https://beamilz.com/) in March 202
 - [University of California, Santa Barbara - Bren School of Environmental Science & Management - Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science)
 
 - [Imperial College London - Msc Environmental Data Science and Machine Learning](https://www.imperial.ac.uk/study/pg/earth-science/environmental-data-science-machine-learning/)
+
+- [WEC-33806 - Data Science for Ecology - Wageningen University & Research](https://wec.wur.nl/dse/) (online course)
 
 ### Content from courses at the Master of Environmental Data Science (MEDS) - Bren School
 
