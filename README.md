@@ -21,7 +21,7 @@ This repository was created by [Beatriz Milz](https://beamilz.com/) in March 202
 
 ### Future events
 
-- [Environmental Data Science Summit - ??, 2025 - Santa Barbara, California](https://www.nceas.ucsb.edu/environmental-data-science-summit)
+- [Environmental Data Science Summit - February 4 - 6, 2025 - Santa Barbara, California](https://www.nceas.ucsb.edu/environmental-data-science-summit)
 
 ### Past events
 
